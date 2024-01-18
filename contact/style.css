@@ -1,0 +1,16 @@
+html{
+  background-color: rgb(27, 27, 27);
+  text-align: center;
+  padding-top: 300px;
+}
+
+.contact{
+  color: silver;
+  margin: 2rem;
+  font-size: 3rem;
+}
+
+p{
+  color: sienna;
+  font-size: 150%;
+}
